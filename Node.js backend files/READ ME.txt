@@ -1,0 +1,4 @@
+you need to get the modules before you can use it
+the modules you need :
+fs , socket.io , websocket , http .
+if i missed some the node will tell you when you try to run the app.
